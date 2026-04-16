@@ -6,6 +6,8 @@ A lightweight **Medical Retrieval-Augmented Generation (RAG) system** that retri
 ##🔗 **Live Demo (Hugging Face Space):**  
  https://sncarenyang-medical-rag-demo.hf.space/
 
+ __________________
+
 
 ## 📌 Overview
 
@@ -91,29 +93,28 @@ medical-rag-wiki-demo/
 
 ## 💡 Future Improvements
 
- • Integrate LLM (e.g., GPT / open-source models) for better answer generation
- • Add multilingual support (Chinese/English medical queries)
- • Improve retrieval with embeddings (e.g., Sentence Transformers)
- • Add document sources (PDF, medical guidelines)
+ - Integrate LLM (e.g., GPT / open-source models) for better answer generation
+ - Add multilingual support (Chinese/English medical queries)
+ - Improve retrieval with embeddings (e.g., Sentence Transformers)
+ - Add document sources (PDF, medical guidelines)
 
 
 
 ## 👩‍💻 Author
-
 Shi-Ning Caren Yang
- • Background in Electrical Engineering & AI
- • Strong interest in medical applications and healthcare technology
+
 
 
 ## ⭐ Highlights
 
- • Built and deployed a working RAG system on Hugging Face Spaces
- • Demonstrates understanding of information retrieval + NLP
- • Implemented TF-IDF based semantic retrieval  
- • Combines real-world medical use case with AI techniques
+ - Built and deployed a working RAG system on Hugging Face Spaces
+ - Demonstrates understanding of information retrieval + NLP
+ - Implemented TF-IDF based semantic retrieval  
+ - Combines real-world medical use case with AI techniques
 
-⸻
+
 
 ## ⚠️ Disclaimer
-
 This project is for educational purposes only and does not provide medical advice. Always consult a licensed physician for real medical advice.
+
+
