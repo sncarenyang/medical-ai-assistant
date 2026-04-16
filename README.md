@@ -118,3 +118,12 @@ Shi-Ning Caren Yang
 This project is for educational purposes only and does not provide medical advice. Always consult a licensed physician for real medical advice.
 
 
+## 🌐 License & Copyright
+-  The code in this repository is released under the MIT License (or the license you choose).
+-  The Wikipedia content retrieved via this demo is subject to Wikipedia’s own license and copyright terms.
+
+
+## 📚 Acknowledgements
+-  Thanks to **Hugging Face Space** for providing the free deployment platform.
+-  Contributions are welcome
+
