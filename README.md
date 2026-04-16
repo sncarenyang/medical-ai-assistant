@@ -86,6 +86,7 @@ medical-rag-wiki-demo/
 ├── app.py                    # Gradio UI & Main application
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project Documentation
+```
 
 
 ## 💡 Future Improvements
