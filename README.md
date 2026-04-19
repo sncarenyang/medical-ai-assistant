@@ -119,7 +119,7 @@ This project is for educational purposes only and does not provide medical advic
 
 
 ## 🌐 License & Copyright
--  The code in this repository is released under the MIT License (or the license you choose).
+-  The code in this repository is released under the MIT License.
 -  The Wikipedia content retrieved via this demo is subject to Wikipedia’s own license and copyright terms.
 
 
