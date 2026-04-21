@@ -1,6 +1,5 @@
-## 🩺 Medical RAG+Wiki QA System Demo
-
-A lightweight **Medical Retrieval-Augmented Generation (RAG) system** that retrieves health-related information from Wikipedia and provides relevant answers based on semantic similarity.
+## 🩺 Medical -AI -Assistant
+A lightweight **Medical Retrieval-Augmented Generation (RAG) system** that retrieves health-related information from Wikipedia and provides relevant answers based on semantic similarity.  This AI assistant helps users understand medical conditions using reliable sources.
 
 
 ##🔗 **Live Demo (Hugging Face Space):**  
